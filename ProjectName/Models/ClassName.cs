@@ -1,6 +1,6 @@
 namespace ProjectName.Models
 {
-  public class Item
+  public class ClassName
   {
 
     // properties, methods, etc. will go here.

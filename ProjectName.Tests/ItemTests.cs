@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ToDoList.Models;
+using ProjectName.Models;
 
-namespace ToDoList.Tests
+namespace ProjectName.Tests
 {
   [TestClass]
-  public class ItemTests
+  public class ClassNameTests
   {
 
     // Test methods will go here.
